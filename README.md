@@ -64,8 +64,7 @@ function show(name){
 
 propriedade | descrição 
 ----------  | ---------
-name | informar o nome do otario
+name | informar o **nome** do otario
 site | para definir o tamalho do cc
-background | cor de fundo do baguio em HEX
+background | cor de fundo do baguio em _HEX_
 onpress | função de quando clicar no botão
-
