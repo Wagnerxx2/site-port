@@ -28,3 +28,32 @@ _nessa_ desgraça **vc** vai querer **chorar**
 >este e alguma coisa, sla.
 >
 >loucuras
+
+**comando do baguio**
+
+```
+npm start 
+```
+
+**exemplo do baguio**
+```js
+function show(name){
+  return "bem vindo" + name;
+}
+```
+
+**uso do html**
+```html
+<h1>
+   tt do pgg
+   <span>ccs de git<span>
+</h1>
+```
+
+**css padrão do pgt**
+```css
+.titulo{
+  background-color:aff:
+  color: aff0000
+}
+```
