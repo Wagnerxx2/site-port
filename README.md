@@ -1,4 +1,9 @@
 ![logo do baguio](https://pbs.twimg.com/media/EnOXT6OXUAUkbSN.jpg)
+
+[bem vindo calvo](#bem-vindo-a-essa-porra) |
+[mdd](#modulos) |
+[rede-do-goku](#rede-do-goku) |
+[comando](#comando-do-baguio)
 # bem vindo a essa porra
 _nessa_ desgraça **vc** vai querer **chorar**
 
