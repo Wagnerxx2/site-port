@@ -3,7 +3,11 @@
 _nessa_ desgraça **vc** vai querer **chorar**
 
 ## bah doido
-_sla oq e isso, **viajando** pra **karalha**_
+# começando com a coisa
+# aprendendo sobre branches
+# GIT avançado 
+# usando github de forma profissional.
+
 
 ### rede do goku:
 [instagram](https://instagram.com/gokucalvo)
