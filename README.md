@@ -61,3 +61,11 @@ function show(name){
   color: aff0000
 }
 ```
+
+propriedade | descrição 
+----------  | ---------
+name | informar o nome do otario
+site | para definir o tamalho do cc
+background | cor de fundo do baguio em HEX
+onpress | função de quando clicar no botão
+
