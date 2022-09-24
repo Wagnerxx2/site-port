@@ -13,6 +13,11 @@ _nessa_ desgraça **vc** vai querer **chorar**
 * git avançado de cria.
 * usando o git de forma lixo.
 
+
+1. começando de cria. 
+2. aprendendo o baguio.
+3. git ruim.
+4. usando o git de forma ruim.
 ### rede do goku:
 [instagram](https://instagram.com/gokucalvo)
 
