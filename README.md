@@ -15,6 +15,8 @@ _nessa_ desgraça **vc** vai querer **chorar**
 
 
 1. começando de cria. 
+  1. sla oq e git
+  2. e isso ai
 2. aprendendo o baguio.
 3. git ruim.
 4. usando o git de forma ruim.
