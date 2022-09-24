@@ -7,7 +7,11 @@ _nessa_ desgraça **vc** vai querer **chorar**
 # aprendendo sobre branches
 # GIT avançado 
 # usando github de forma profissional.
-
+## modulos:
+ começando com o baguio.
+* aprendendo sobre branch.
+* git avançado de cria.
+* usando o git de forma lixo.
 
 ### rede do goku:
 [instagram](https://instagram.com/gokucalvo)
