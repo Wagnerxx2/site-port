@@ -2,6 +2,10 @@
 # bem vindo a essa porra
 _nessa_ desgraça **vc** vai querer **chorar**
 
+**ultimos upd;**
+- [x] site rsp.
+- [ ] login com fc.
+- [ ] pgg sobre ep.
 ## bah doido
 # começando com a coisa
 # aprendendo sobre branches
