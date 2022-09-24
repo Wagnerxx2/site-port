@@ -24,3 +24,7 @@ _nessa_ desgraça **vc** vai querer **chorar**
 [instagram](https://instagram.com/gokucalvo)
 
 [youtube](https://youtube.com/c/gokucalvo)
+
+>este e alguma coisa, sla.
+>
+>loucuras
